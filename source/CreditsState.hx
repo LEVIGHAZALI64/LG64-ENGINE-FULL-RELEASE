@@ -42,7 +42,8 @@ class CreditsState extends MusicBeatState
 		['Anniki',			'anniki',		'Main Supporter of the Engine',		'https://twitter.com/rivergravidade?s=20&t=0bqZg6mzPiziwYFEcWanBQ',	'0xFFD10616'],
 		['Brick ST',				'brick',		'Lead Animation Designer',	'https://twitter.com/Brick_ST_?s=20&t=0bqZg6mzPiziwYFEcWanBQ',	'0xFF61536A'],
 		['Raiden alfares',				'raiden',		'Help Me For The Code Android Port',	'https://youtube.com/channel/UChE0s906J1YZRf1Ln9wP8Gg',	'0xFF61536A'],
-		
+		['Peakfire',				'alva',		'FNF Cover Of Hilda But His Twitter',	'https://twitter.com/PeakFireX?s=20&t=_o2tcLeDzRnbEoSo9dvpNg',	'0xFF61536A'],
+		['Brick ST',				'alva',		'FNF COVER OF HILDA BUT HIS YT',	'https://youtube.com/c/PeakFire50',	'0xFF61536A']
 		[''],
 		["Funkin' Crew"],
 		['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",				'https://twitter.com/ninja_muffin99',	0xFFF73838],
