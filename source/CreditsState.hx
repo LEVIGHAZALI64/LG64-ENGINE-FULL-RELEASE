@@ -25,11 +25,11 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['LEVI ENGINE Android Port'],
-		['Kviks',				'kviks',			'Main Programmer of Psych Engine Android',			'https://youtube.com/channel/UChPjrBq7z7oSVcB3FcHMDCA',	0xFFF73838],
+		['LG64',				'kviks',			'Main Programmer of Psych Engine Android',			'https://youtube.com/channel/UChPjrBq7z7oSVcB3FcHMDCA',	0xFFF73838],
 		[''],
-		['Psych Engine Team'],
-		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
-		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
+		['LEVI Engine Team'],
+		['LEVI GHAZALI',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
+		['Haliza Putri Ghazali',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
 		[''],
 		['Engine Contributors'],
 		['shubs',				'shubs',			'New Input System Programmer',						'https://twitter.com/yoshubs',			0xFF4494E6],
